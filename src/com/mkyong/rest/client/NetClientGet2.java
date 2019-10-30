@@ -11,7 +11,7 @@ public class NetClientGet2 {
 
 	// http://localhost:8080/RESTfulExample/json/product/get
 	public static void main(String[] args) {
-
+		// http://localhost:8080/RESTfulExample/json/product/get
 		try {
 
 			URL url = new URL(
